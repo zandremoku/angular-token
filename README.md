@@ -1,5 +1,13 @@
 This repo has been forked from the Angular-Token repo to support newer Angular versions.
 
+Usage:
+
+   ```javascript
+import {
+   AngularTokenService
+}                                                                           from 'angular-token/dist/angular-token/esm2020/public_api';
+```
+
 ---
 
 ![Angular-Token](https://raw.githubusercontent.com/neroniaky/angular-token/master/docs/angular-token-logo.png)
