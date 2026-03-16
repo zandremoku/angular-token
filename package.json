@@ -1,11 +1,11 @@
 {
   "name": "angular-token-app",
-  "version": "21.0.1",
+  "version": "21.0.2",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
     "build": "ng build",
-    "prepare": "ng build angular-token",
+    "prepare": "ng build angular-token && cp README.md dist/angular-token && cp LICENSE dist/angular-token",
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
     "test:lib": "ng test angular-token"
