@@ -9,6 +9,7 @@
   },
   "repository": "https://github.com/zandremoku/angular-token.git",
   "version": "21.0.2",
+  "license": "MIT",
   "scripts": {
     "packagr": "ng-packagr -p ng-package.json"
   }

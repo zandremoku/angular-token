@@ -10,6 +10,7 @@
     "test": "ng test",
     "test:lib": "ng test angular-token"
   },
+  "license": "MIT",
   "private": true,
   "main": "dist/angular-token/esm2020/public_api.js",
   "module": "dist/angular-token/esm2020/public_api.js",
