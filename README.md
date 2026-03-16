@@ -1,12 +1,11 @@
 This repo has been forked from the Angular-Token repo to support newer Angular versions.
 
-Usage:
+## Install
 
-   ```javascript
-import {
-   AngularTokenService
-}                                                                           from 'angular-token/dist/angular-token/esm2020/public_api';
-```
+   ```bash
+   npm install @zandremoku/angular-token
+   ```
+
 
 ---
 

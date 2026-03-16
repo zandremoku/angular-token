@@ -8,7 +8,7 @@
     "@angular/core": ">=15 <22"
   },
   "repository": "https://github.com/zandremoku/angular-token.git",
-  "version": "17.0.1",
+  "version": "21.0.1",
   "scripts": {
     "packagr": "ng-packagr -p ng-package.json"
   }
